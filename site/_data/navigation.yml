@@ -6,9 +6,7 @@ menu__settings:
     - title: Projects
       url: /projects/
     - title: About
-      submenu:
-        - url: /about/
-          title: About
+      url: /about/
     - title: Pages
       submenu:
         - url: /elements/
