@@ -4,12 +4,20 @@ title: Doggly
 subtitle: Startup
 image: /uploads/image-1.png
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
+**(Company) Sigor**
 
-![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
+**​​​​​​​Home page : https://doggly.co.kr/**
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
+* A dog clothing platform company that provides a service to recommend sizes using AI computer vision technology
+* As an initial startup member, served as a web development team leader responsible for the front-end of the deta service
+* As an AI Engineer, responsible for building AI models and collecting data
+* Developed the Early Petter shopping mall created by SigoRjapjong
+* Cumulative total of approximately 400 members and about 100 orders
+* Development team consisted of 2 members
+* Development period: July 2021 - October 2022
 
-![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
+**My Contributions:**
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+* Initial UI/UX design and implementation
+* Front-end/back-end modification and improvement
+* Developed the size recommendation algorithm and optimized its performance
