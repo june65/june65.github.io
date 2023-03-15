@@ -3,13 +3,11 @@ menu__settings:
   menu__items:
     - title: Home
       url: /
-    - title: Projects
-      url: /projects/
     - title: About
       url: /about/
+    - title: Projects
+      url: /projects/
     - title: Pages
       submenu:
         - url: /elements/
           title: Elements
-        - url: /about/
-          title: About
