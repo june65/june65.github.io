@@ -1,7 +1,7 @@
 ---
 date: 2021-01-06 02:20:35
 title: Doggly
-subtitle: Startup
+subtitle: Startup Company
 image: /uploads/image-1.png
 ---
 **(Company) Sigor**
