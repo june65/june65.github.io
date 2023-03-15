@@ -6,7 +6,7 @@ image: /uploads/logo-4osui1m.webp
 ---
 **![](/uploads/152697208-03dabce6-8076-46d1-b9e5-772f0130014a.png){: width="1440" height="810"}**
 
-The team received the GDSC 2022 Hackathon Encouragement Award for their project which involved using Google Maps to provide the location of garbage cans around users and image classification through garbage image recognition using Tensorflow light. The team consisted of three people and the development period was from December 2021 to February 2022. As for my contribution, I supervised the Figma design and managed the frontend and Github, while also handling the Tensorflow image set data preprocessing and grouping.<br>
+The team received the GDSC 2022 Hackathon Encouragement Award for their project which involved using Google Maps to provide the location of garbage cans around users and image classification through garbage image recognition using Tensorflow light. The team consisted of three people and the development period was from December 2021 to February 2022. As for my contribution, I supervised the Figma design and managed the frontend and Github, while also handling the Tensorflow image set data preprocessing and grouping.
 
 GISTREE is a waste management app that provides users with the location and classification of nearby waste bins to facilitate proper waste disposal. The app also includes an image analysis algorithm for waste classification using TensorFlow Lite, which determines the type of waste and the corresponding waste bin location. Additionally, the app encourages proper waste disposal by providing rewards for using waste bins through a contract with local stores.
 

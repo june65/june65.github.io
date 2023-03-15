@@ -2,7 +2,7 @@
 date: 2021-01-08 03:20:00
 title: Giganpyo
 subtitle: Project
-image: /uploads/지간표-화면-구성.png
+image: /uploads/제목을-입력해주세요-001-3.png
 ---
 **Project Overview**
 
