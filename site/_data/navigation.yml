@@ -7,7 +7,13 @@ menu__settings:
       url: /about/
     - title: Projects
       url: /projects/
+    - title: Projects
+      url: /team/
     - title: Pages
       submenu:
         - url: /elements/
           title: Elements
+    - title: /team/
+      submenu:
+        - url: ''
+          title: ''
