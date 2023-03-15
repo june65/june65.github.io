@@ -13,7 +13,3 @@ menu__settings:
       submenu:
         - url: /elements/
           title: Elements
-    - title: /team/
-      submenu:
-        - url: ''
-          title: ''
