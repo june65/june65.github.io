@@ -5,13 +5,13 @@ menu__settings:
       url: /
     - title: Projects
       url: /projects/
+    - title: About
+      submenu:
+        - url: /about/
+          title: About
     - title: Pages
       submenu:
         - url: /elements/
           title: Elements
         - url: /about/
           title: About
-    - title: /about/
-      submenu:
-        - url: /about/
-          title: ''
