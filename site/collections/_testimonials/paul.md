@@ -1,6 +1,8 @@
 ---
-name: Paul Wade
-position: Marketing
-image: 'images/client-4.jpg'
-blurb: Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis studiis semper.
+name: Lee June Myeong
+position: Student
+image: /uploads/내-프로젝트.jpg
+blurb: >-
+  3rd-year student at  GIST, majoring in Electrical Engineering and Computer
+  Science (EECS). AI Engineer and Front-End Developer
 ---
