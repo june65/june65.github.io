@@ -6,7 +6,7 @@ image: /uploads/image-1.png
 ---
 **(Company) Sigor**
 
-**​​​​​​​Home page : https://doggly.co.kr/**
+**Home page : https://doggly.co.kr/**
 
 * A dog clothing platform company that provides a service to recommend sizes using AI computer vision technology
 * As an initial startup member, served as a web development team leader responsible for the front-end of the deta service
